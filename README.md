@@ -26,8 +26,8 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/LINDECKER-Charles/FM-FourCard)
-- Live Site URL: [Add live site URL here](https://fm-four-card-seven.vercel.app/)
+- Solution URL: [Add solution URL here](https://github.com/LINDECKER-Charles/FM-TestimonialsGridSection)
+- Live Site URL: [Add live site URL here](https://fm-testimonials-grid-section-snowy.vercel.app/)
 
 ## My process
 
